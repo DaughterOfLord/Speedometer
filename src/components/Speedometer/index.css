@@ -1,0 +1,73 @@
+/* Write your CSS here */
+.container{
+  background-color: #07080c;
+  background-size: cover;
+  font-family: Roboto;
+  padding: 30px;
+}
+
+.heading{
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.image{
+  height: 40%;
+  width: 80%;
+  align-self: center;
+}
+
+.speed{
+  font-size: 25px;
+  text-align: center;
+  color: #cbd5e1;
+  font-family: "roboto";
+}
+
+.speedNum{
+  color: #cbd5e1;
+  font-size: 25px;
+  font-family: roboto;
+}
+
+.description{
+  text-align: center;
+  font-weight: lighter;
+  color: #cbd5e1;
+}
+
+.btnContainer{
+display: flex;
+flex-direction: row;
+}
+
+.button_1{
+  text-align: center;
+  height: 30px;
+  width: 110px;
+  background-color: #0b69ff;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #ffffff;
+  border-width: 0px;
+  margin-right: 10px;
+}
+
+.button_2{
+  text-align: center;
+  height: 30px;
+  width: 110px;
+  background-color: transparent;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #ffffff;
+  border-width: 3px;
+  margin-left: 10px;
+}
+
